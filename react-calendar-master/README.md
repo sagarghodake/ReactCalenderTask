@@ -1,5 +1,3 @@
-[![npm](https://img.shields.io/npm/v/react-calendar.svg)](https://www.npmjs.com/package/react-calendar) ![downloads](https://img.shields.io/npm/dt/react-calendar.svg) [![build](https://travis-ci.com/wojtekmaj/react-calendar.svg?branch=master)](https://travis-ci.com/wojtekmaj/react-calendar) ![dependencies](https://img.shields.io/david/wojtekmaj/react-calendar.svg) ![dev dependencies](https://img.shields.io/david/dev/wojtekmaj/react-calendar.svg) [![tested with jest](https://img.shields.io/badge/tested_with-jest-99424f.svg)](https://github.com/facebook/jest)
-
 # React-Calendar
 
 <div align="center">
@@ -160,42 +158,3 @@ Displays a given month, year, decade and a century, respectively.
 ## Useful links
 
 * [React-Calendar Wiki](https://github.com/wojtekmaj/react-calendar/wiki)
-
-## License
-
-The MIT License.
-
-## Author
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/wojtekmaj.png?s=100" width="100">
-    </td>
-    <td>
-      Wojciech Maj<br />
-      <a href="mailto:kontakt@wojtekmaj.pl">kontakt@wojtekmaj.pl</a><br />
-      <a href="http://wojtekmaj.pl">http://wojtekmaj.pl</a>
-    </td>
-  </tr>
-</table>
-
-## Thank you
-
-### Sponsors
-
-Thank you to all our sponsors! [Become a sponsor](https://opencollective.com/react-calendar#sponsor) and get your image on our README on GitHub.
-
-<a href="https://opencollective.com/react-calendar#sponsors" target="_blank"><img src="https://opencollective.com/react-calendar/sponsors.svg?width=890"></a>
-
-### Backers
-
-Thank you to all our backers! [Become a backer](https://opencollective.com/react-calendar#backer) and get your image on our README on GitHub.
-
-<a href="https://opencollective.com/react-calendar#backers" target="_blank"><img src="https://opencollective.com/react-calendar/backers.svg?width=890"></a>
-
-### Top Contributors
-
-Thank you to all our contributors that helped on this project!
-
-![Top Contributors](https://opencollective.com/react-calendar/contributors.svg?width=890&button=false)
